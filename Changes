@@ -1,0 +1,4 @@
+Revision history for Dist::Zilla::Plugin::Oyster
+0.01      Nov 20 2010
+	- Initial release, cargo-culted from DZP::Catalyst, by xenoterracide++ and t0m++
+      patches and comments welcome

@@ -1,0 +1,29 @@
+NAME
+    Dist::Zilla::Plugin::Oyster - set of plugins for working with Oyster
+
+VERSION
+    version 0.01
+
+DESCRIPTION
+    The following is a list of plugins in this distribution to help you
+    integrate Oyster, Catalyst and Dist::Zilla
+
+    *   Dist::Zilla::Plugin::Oyster::New Create a new Catalyst Project
+
+PATCHES
+    Please read the SubmittingPatches file included with this Distribution.
+    Patches that are of sufficient quality, within the goals of the project
+    and pass the checklist will probably be accepted.
+
+AUTHORS
+    *   Osfameron <osfameron@cpan.org>
+
+    *   Rob Clarke <robert.b.clarke@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is Copyright (c) 2010 by Caleb Cushing.
+
+    This is free software, licensed under:
+
+      The Artistic License 2.0
+
